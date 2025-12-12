@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://www.bytonho.com.br/</loc>
     <lastmod>2025-09-10</lastmod>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://bytonho.com.br/marketing-digital-rio-de-janeiro</loc>
+
+    <url>
+    <loc>https://www.bytonho.com.br/criacao-de-sites-rj</loc>
     <lastmod>2025-09-10</lastmod>
-    <priority>0.9</priority>
+    <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://bytonho.com.br/politica-de-privacidade</loc>
+    <loc>https://www.bytonho.com.br/google-meu-negocio-analise-local</loc>
+    <lastmod>2025-09-10</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.bytonho.com.br/politica-de-privacidade</loc>
     <lastmod>2025-09-10</lastmod>
     <priority>0.3</priority>
   </url>
+
 </urlset>
+
